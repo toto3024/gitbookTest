@@ -1,3 +1,3 @@
 # Initial page
 
-{iframe}(https://www.google.com)
+{iframe}(http://www.etoland.co.kr/)
